@@ -1,0 +1,34 @@
+.card-body {
+    display: flex;
+    
+}
+
+body{
+    background-color: black;
+}
+
+.navbar {
+    background-color: whitesmoke;
+}
+
+.navbar-brand {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-title {
+    flex-direction: row;
+}
+
+.content-card {
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    margin-left: 100px;
+    text-align: end;
+}
+
+.card-header {
+    text-align: center;
+}
